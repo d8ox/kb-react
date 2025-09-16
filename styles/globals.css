@@ -46,3 +46,8 @@ footer{padding:40px 0;text-align:center;color:var(--muted)}
     display: none;
   }
 }
+@media (max-width: 768px) {
+  aside {
+    display: none;
+  }
+}
