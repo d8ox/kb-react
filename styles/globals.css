@@ -40,3 +40,19 @@ footer{padding:40px 0;text-align:center;color:var(--muted)}
 .article-body{background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent); padding:22px;border-radius:12px}
 .tags{display:flex;gap:8px;margin-top:12px}
 .tag{background:rgba(255,255,255,0.03);padding:6px 10px;border-radius:999px;font-size:12px;color:var(--muted)}
+
+body.light-mode {
+  background: #f6f8fa;
+  color: #0f1724;
+}
+body.light-mode .card {
+  background: #ffffff;
+  color: #0f1724;
+}
+body.light-mode .search {
+  background: #ffffff;
+  color: #0f1724;
+}
+body.light-mode .tag {
+  background: rgba(0,0,0,0.06);
+}
