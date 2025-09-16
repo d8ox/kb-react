@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "getting-started",
+    "title": "Getting started with the product",
+    "excerpt": "A quick tour to get your account ready and running.",
+    "content": "<h2>Welcome</h2><p>Follow these steps to get started quickly. Edit this content in <code>data/articles.json</code>.</p><ol><li>Create an account</li><li>Verify your email</li><li>Start using the product</li></ol>",
+    "category": "Guides",
+    "tags": [
+      "setup",
+      "quickstart"
+    ],
+    "date": "2025-01-15",
+    "readTime": 4
+  },
+  {
+    "slug": "billing-and-payments",
+    "title": "Billing and payments",
+    "excerpt": "Manage invoices, payment methods, and subscription plans.",
+    "content": "<p>Here we describe how to update your payment method and where to find invoices.</p><h3>Update card</h3><p>Go to settings → billing.</p>",
+    "category": "Billing",
+    "tags": [
+      "billing",
+      "payments"
+    ],
+    "date": "2025-02-02",
+    "readTime": 3
+  },
+  {
+    "slug": "api-overview",
+    "title": "API overview and authentication",
+    "excerpt": "Learn how to authenticate and call our REST API.",
+    "content": "<p>This article contains example requests, auth patterns, and common errors.</p><pre><code>GET /api/v1/user</code></pre>",
+    "category": "Developers",
+    "tags": [
+      "api",
+      "developers"
+    ],
+    "date": "2025-03-11",
+    "readTime": 6
+  }
+]
