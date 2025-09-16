@@ -34,61 +34,73 @@
     "tags": [
       "api",
       "developers"
-
-        {
-    "slug": "billing-and-payments",
-    "title": "Billing y mas payments",
-    "excerpt": "Manage invoices, payment methods, and subscription plans.",
-    "content": "<p>Here se describe -- res resto we describe how to update your payment method and where to find invoices.</p><h3>Update card</h3><p>Go to settings → billing.</p>",
-    "category": "Billing",
-    "tags": [
-      "billing",
-      "payments"
     ],
-    "date": "2025-02-02",
-    "readTime": 3
+    "date": "2025-03-11",
+    "readTime": 6
   },
-
-              {
-    "slug": "billing-and-payments",
-    "title": "Billing y mas payments",
-    "excerpt": "Manage invoices, payment methods, and subscription plans.",
-    "content": "<p>Here se describe -- res resto we describe how to update your payment method and where to find invoices.</p><h3>Update card</h3><p>Go to settings → billing.</p>",
-    "category": "Billing",
+  {
+    "slug": "api-overview",
+    "title": "API overview and authentication",
+    "excerpt": "Learn how to authenticate and call our REST API.",
+    "content": "<p>This article contains example requests, auth patterns, and common errors.</p><pre><code>GET /api/v1/user</code></pre>",
+    "category": "Developers",
     "tags": [
-      "billing",
-      "payments"
+      "api",
+      "developers"
     ],
-    "date": "2025-02-02",
-    "readTime": 3
+    "date": "2025-03-11",
+    "readTime": 6
   },
-
-              {
-    "slug": "billing-and-payments",
-    "title": "Billing y mas payments",
-    "excerpt": "Manage invoices, payment methods, and subscription plans.",
-    "content": "<p>Here se describe -- res resto we describe how to update your payment method and where to find invoices.</p><h3>Update card</h3><p>Go to settings → billing.</p>",
-    "category": "Billing",
+  {
+    "slug": "api-overview",
+    "title": "API overview and authentication",
+    "excerpt": "Learn how to authenticate and call our REST API.",
+    "content": "<p>This article contains example requests, auth patterns, and common errors.</p><pre><code>GET /api/v1/user</code></pre>",
+    "category": "Developers",
     "tags": [
-      "billing",
-      "payments"
+      "api",
+      "developers"
     ],
-    "date": "2025-02-02",
-    "readTime": 3
+    "date": "2025-03-11",
+    "readTime": 6
   },
-
-              {
-    "slug": "billing-and-payments",
-    "title": "Billing y mas payments",
-    "excerpt": "Manage invoices, payment methods, and subscription plans.",
-    "content": "<p>Here se describe -- res resto we describe how to update your payment method and where to find invoices.</p><h3>Update card</h3><p>Go to settings → billing.</p>",
-    "category": "Billing",
+  {
+    "slug": "api-overview",
+    "title": "API overview and authentication",
+    "excerpt": "Learn how to authenticate and call our REST API.",
+    "content": "<p>This article contains example requests, auth patterns, and common errors.</p><pre><code>GET /api/v1/user</code></pre>",
+    "category": "Developers",
     "tags": [
-      "billing",
-      "payments"
+      "api",
+      "developers"
     ],
-    "date": "2025-02-02",
-    "readTime": 3
+    "date": "2025-03-11",
+    "readTime": 6
   },
-             
+  {
+    "slug": "api-overview",
+    "title": "API overview and authentication",
+    "excerpt": "Learn how to authenticate and call our REST API.",
+    "content": "<p>This article contains example requests, auth patterns, and common errors.</p><pre><code>GET /api/v1/user</code></pre>",
+    "category": "Developers",
+    "tags": [
+      "api",
+      "developers"
+    ],
+    "date": "2025-03-11",
+    "readTime": 6
+  },
+  {
+    "slug": "api-overview",
+    "title": "API overview and authentication",
+    "excerpt": "Learn how to authenticate and call our REST API.",
+    "content": "<p>This article contains example requests, auth patterns, and common errors.</p><pre><code>GET /api/v1/user</code></pre>",
+    "category": "Developers",
+    "tags": [
+      "api",
+      "developers"
+    ],
+    "date": "2025-03-11",
+    "readTime": 6
+  }
 ]
