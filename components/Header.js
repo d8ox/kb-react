@@ -1,12 +1,5 @@
 import Link from 'next/link'
-import { useEffect, useState } from 'react'
-
 export default function Header(){
-  const [dark, setDark] = useState(true)
-  useEffect(()=>{
-    document.body.classList.toggle('light-mode', !dark)
-  }, [dark])
-
   return (
     <header className="site container">
       <div className="brand">
@@ -20,7 +13,7 @@ export default function Header(){
         <Link href="/">Home</Link>
         <Link href="/articles">Articles</Link>
         <Link href="/about">About</Link>
-      </nav><button onClick={()=>setDark(!dark)} className='btn' style={{marginLeft:18}}>{dark ? 'Light' : 'Dark'} Mode</button>
+      </nav>
     </header>
   )
 }
